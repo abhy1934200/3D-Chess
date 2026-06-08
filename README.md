@@ -91,6 +91,8 @@ The project includes:
 ## Author
 
 Created by **Abhay Senthil**
+Credits to Oliver Wang with helping out on the multiplayer system
+and to help make the bots.
 
 ## License
 
